@@ -41,3 +41,6 @@ Grad-CAM is a technique for visualizing and understanding the decisions made by 
 - Visualizing feature importance for image classification tasks
 - Understanding model decisions for medical imaging or object detection
 - Comparing model explanations across different architectures
+
+## References 
+- R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh and D. Batra, "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization," 2017 IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017, pp. 618-626, doi: 10.1109/ICCV.2017.74.
